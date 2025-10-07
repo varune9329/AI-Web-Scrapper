@@ -7,3 +7,7 @@ This first image shows the UI of the site:
 
 This second image shows the link for the website entered into the search bar. For reference, this is the link used: https://www.loprofilepc.com/store/laptops/hp
 ![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/598bfe6af6af6776a334ec0b82035843e7584e1f/Screenshot%202025-10-07%20140501.png)
+
+
+This third image shows the contents of the website being displayed in a dropdown box:
+![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/2cf87f4f849228492be44bce9b51fb3a50f44a9b/Screenshot%202025-10-07%20140550.png)
