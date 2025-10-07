@@ -11,3 +11,7 @@ This second image shows the link for the website entered into the search bar. Fo
 
 This third image shows the contents of the website being displayed in a dropdown box:
 ![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/2cf87f4f849228492be44bce9b51fb3a50f44a9b/Screenshot%202025-10-07%20140550.png)
+
+
+This fourth image shows a prompt being entered into the description box for use by the Ollama llama3.1 LLM
+![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/fdd2f74092b7fc61c7beccc54dd4f7542eeac71f/Screenshot%202025-10-07%20140700.png)
