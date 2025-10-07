@@ -3,3 +3,7 @@ This project uses python Libraries such as Selenium, Streamlit and BeautifulSoup
 
 This first image shows the UI of the site:
 ![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/31d697f6b549eb230c3ad456c6d2200b283331cc/Screenshot%202025-10-07%20140345.png)
+
+
+This second image shows the link for the website entered into the search bar. For reference, this is the link used: https://www.loprofilepc.com/store/laptops/hp
+![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/598bfe6af6af6776a334ec0b82035843e7584e1f/Screenshot%202025-10-07%20140501.png)
