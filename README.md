@@ -13,5 +13,9 @@ This third image shows the contents of the website being displayed in a dropdown
 ![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/2cf87f4f849228492be44bce9b51fb3a50f44a9b/Screenshot%202025-10-07%20140550.png)
 
 
-This fourth image shows a prompt being entered into the description box for use by the Ollama llama3.1 LLM
+This fourth image shows a prompt being entered into the description box for use by the Ollama llama3.1 LLM model
 ![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/fdd2f74092b7fc61c7beccc54dd4f7542eeac71f/Screenshot%202025-10-07%20140700.png)
+
+
+This fifth image shows the result produced by the AI model:
+![image alt](https://github.com/varune9329/AI-Web-Scrapper/blob/70a8384c703a7f7e9f017bce5f15b6575a1a9eb2/Screenshot%202025-10-07%20143011.png)
